@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-## Register Number : 212223230031
 ## Name : P.Bharathraj
+## Register Number : 212223230031
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -35,10 +35,12 @@ while True:
 ```
 ## OUPUT
 ### Client
-![Screenshot 2024-04-20 084739](https://github.com/Bharathraj2006/3b_CHAT_USING_TCP_SOCKETS/assets/152376845/3ebab851-c26e-49cc-98bf-c8b96a733743)
+![image](https://github.com/Bharathraj2006/3b_CHAT_USING_TCP_SOCKETS/assets/152376845/516338b3-f35a-43d1-a4bc-bf11b48a1b82)
+
 
 ### Server
-![Screenshot 2024-04-20 084754](https://github.com/Bharathraj2006/3b_CHAT_USING_TCP_SOCKETS/assets/152376845/3edaeada-b354-4839-bada-15b9ba045033)
+![image](https://github.com/Bharathraj2006/3b_CHAT_USING_TCP_SOCKETS/assets/152376845/717dbe16-560c-4e81-a956-287dc208aade)
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
